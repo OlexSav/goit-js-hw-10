@@ -1,0 +1,28 @@
+.is-hidden {
+  display: none;
+}
+
+.breed-select {
+  position: relative;
+  display: block;
+  min-width: 220px;
+  width: 100%;
+  max-width: 450px;
+  margin-bottom: 24px;
+  text-align: center;
+  box-shadow: 0.3rem 0.3rem 1rem rgba(178, 200, 244, 0.23);
+}
+
+.catbox {
+  display: flex;
+  gap: 30px;
+  font-family: sans-serif;
+}
+
+.loader {
+  font-family: sans-serif;
+}
+
+.error {
+  font-family: sans-serif;
+}
